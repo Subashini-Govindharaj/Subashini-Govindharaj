@@ -26,6 +26,11 @@ I'm a computer science student with a keen interest in web development, machine 
 - Email: subhashinigovindharaj13@gmail.com
 - LinkedIn: https://www.linkedin.com/in/subashini-g-1236a2232
 
+## Tools and Languages 
+
+- https://aws.amazon.com/
+- 
+
 ## 😄 Pronouns
 
 - she/her
